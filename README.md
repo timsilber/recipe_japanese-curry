@@ -99,7 +99,7 @@ As the water boils, scum (primarily composed of coagulated myoglobin and bone du
 <hr> 
 I usually partially cover the pot with the lid during this step, but the overall goal is to maintain a bare simmer throughout the braise.
 
-https://github.com/timsilber/recipe_japanese-curry/blob/main/assets/simmer-smallest.mov?raw=true 
+https://user-images.githubusercontent.com/95649291/230791829-b2d36f27-90f5-40dc-a9d7-2682677615b0.mov
 
 <hr> 
 
