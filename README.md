@@ -6,8 +6,8 @@ baby bella mushrooms x 1 lb
 carrots x 4-6
 
 1.5 qt water
-2 tbsp gelatin
-2 tbsp hondashi 
+2 tbsp [gelatin](https://www.amazon.com/Knox-Gelatine-Unflavored-Count-Ounce/dp/B00BCMU7T4/ref=sr_1_21_f3_0g_fs?crid=TV0Y6HDLJDP0&keywords=gelatin%2Bknox%2Bpack&qid=1681077247&s=grocery&sprefix=gelatin%2Bknox%2Bpack%2Cgrocery%2C74&sr=1-21&th=1)
+2 tbsp [hondashi](https://www.amazon.com/Ajinomoto-HONDASHI-Bonito-Stock-4-23oz/dp/B088HGKBNM/ref=sr_1_3?crid=21559UAA72GQI&keywords=hondashi&qid=1681077161&s=grocery&sprefix=hondashi%2Cgrocery%2C100&sr=1-3&th=1)
 
 box curry roux x 1
 
@@ -20,6 +20,10 @@ white rice, for serving
 ## Before getting started
 
 ## On curry roux
+
+[Vermont Curry](https://www.amazon.com/House-Foods-Vermont-Curry-Medium/dp/B0722DCVY1/ref=sr_1_2?crid=2FFUGHOL9HWDW&keywords=vermont%2Bcurry&qid=1681077031&s=grocery&sprefix=vermont%2Bcurry%2Cgrocery%2C62&sr=1-2&th=1)
+
+[Golden Curry](https://www.amazon.com/Golden-Curry-Sauce-Medium-8-4-Ounce/dp/B0011ULFVG/ref=sr_1_10?crid=12JOQ08N8S7N2&keywords=golden+curry&qid=1681077068&s=grocery&sprefix=golden+curry%2Cgrocery%2C66&sr=1-10)
 
 ## On protein
 
@@ -38,6 +42,8 @@ But in most sauces, braises, etc, you don't need to go through the pains of maki
 Hondashi creates a ton of depth and subtle smokiness, while gelatin simulates the effects of slowly rendering collagen from bones during a long stock simmer. 
 
 You should keep both of these in your pantry – they have a ton of applications, and are easy to store. But should you insist on using store-bought chicken stock, you could add some gelatin to improve the mouthfeel.
+
+https://www.amazon.com/Knox-Unflavored-Gelatin-1-lb/dp/B001UOW7D8/ref=sr_1_4?crid=2ZEJ4A789028B&keywords=gelatin+knox&qid=1681077202&s=grocery&sprefix=gelatin+knox%2Cgrocery%2C76&sr=1-4
 
 ## Sear and braise
 
