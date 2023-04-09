@@ -99,9 +99,8 @@ As the water boils, scum (primarily composed of coagulated myoglobin and bone du
 <hr> 
 I usually partially cover the pot with the lid during this step, but the overall goal is to maintain a bare simmer throughout the braise.
 
-<video>
-    <source src="assets/simmer-smallest.mov" type="video/mp4">
-</video>
+https://github.com/timsilber/recipe_japanese-curry/blob/main/assets/simmer-smallest.mov?raw=true 
+
 <hr> 
 
 13.   Braise meat until mostly tender. This will depend on your choice of protein, the size of your chunks, your oven, etc. For me, this generally takes 1.5 hours. I start checking after 1 hour, and would never go past 3 hours. No one wants meat mush.
