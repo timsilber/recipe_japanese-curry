@@ -1,22 +1,33 @@
 # recipe_japanese-curry
 
-<hr>
-ℹ️ You can make this with any type of tough protein (pork shoulder, chicken thigh, etc). 
-
-<br>My preference is beef, usually a chuck roast. I used to make it with English cut bone-in short rib, but now everyone thinks they're cool and I've been priced out of using it for a casual weeknight meal. But it's still the best.
-<hr>
-
 big ol' chunk of meat x 4 lb
 large onions x 4
 baby bella mushrooms x 1 lb 
 carrots x 4-6
 
-
 1.5 qt water
 2 tbsp gelatin
 2 tbsp hondashi 
 
+box curry roux x 1
+
+white rice, for serving
+
+<hr>
+ℹ️ 
+<hr>
+
 ## Before getting started
+
+## On curry roux
+
+## On protein
+
+You can make this with any type of tough protein (pork shoulder, chicken thigh, etc). 
+
+My preference is beef, usually a chuck roast. I used to make it with English cut bone-in short rib, but now everyone thinks they're cool and I've been priced out of using it for a casual weeknight meal. But it's still the best.
+
+### On stocks
 
 A really good stock is the base of so many aspects of cooking. Traditional store-bought stock is usually dilute, over-salted, and misses the unctuousness that comes from rendering collagen out of bones. I strongly recommend against it.
 
@@ -109,6 +120,8 @@ https://user-images.githubusercontent.com/95649291/230791829-b2d36f27-90f5-40dc-
 
 13.   Braise meat until mostly tender. This will depend on your choice of protein, the size of your chunks, your oven, etc. For me, this generally takes 1.5 hours. I start checking after 1 hour, and would never go past 3 hours. No one wants meat mush.
 
+![braised meat](assets/braised-meat.png)
+
 ## Mise en place
 
 Prep your vegetables while your meat simmers away in the oven. I have a pretty liberal definition of bite-sized, but here's how I like my vegetables:
@@ -149,9 +162,13 @@ Adding a bit of water to this process makes the initial stage of sauté more eff
 
 2. Cook mushrooms and onions until they have reduced in volume and onions are beginning to turn translucent, ~10 minutes. You should stir intermittently during this step to ensure even heat distribution and prevent burning.
 
+![start saute](assets/post-saute-onions-and-mushrooms.png)
+
 3. Add some oil, then sauté until onions are translucent and lightly starting to brown, ~5 minutes.
    
 4. Add potatoes, then briefly mix everything together.
+
+![potato](assets/add-potatoes.png)
    
 <hr> 
 If your braise needs more time, remove the vegetable pot from heat until braise is complete. 
@@ -159,12 +176,16 @@ If your braise needs more time, remove the vegetable pot from heat until braise 
 
 5. Transfer meat and braising liquid to the pot. I usually use a slotted spoon to move the meat into the vegetable pot, then pour the braising liquid in directly.
 
+![add meat](assets/add-braise-meat-and-liquid.png)
+
 <hr> 
 Your braising liquid should be sufficient to mostly submerge everything. You can add a splash or two of water as needed, but I'd refrain if possible -- it dilutes the flavor and thickness of the curry.
 <hr> 
 
 6. Bring to a boil, then immediately reduce to a simmer. 
 7. After 5 minutes, add carrots, then continue to simmer until vegetables are cooked, ~7-10 more minutes. 
+
+![add carrots](assets/add-carrots.png)
 
 <hr>
 Potatoes and carrots are generally done when the tip of a paring knife can be inserted into the center of the vegetable with little resistance, but I usually just take a bit out of one when I think it's ready. 
@@ -176,23 +197,28 @@ Potatoes and carrots are generally done when the tip of a paring knife can be in
 
 To finish the dish, finely chop the curry roux before adding to the pot. 
 
-!
+![chop roux](assets/chopped-curry-roux.png)
 
 At this point, your vegetables and meat are delicate, and too much agitation with turn them to mush.
 
 I usually incorporate the curry by adding it to a ladle, dipping in some broth, then using a pair of chopsticks to turn the roux into a paste before incorporating into the larger pot. 
 
+![roux in ladle](assets/curry-in-ladle.png)
+![roux to paste](assets/roux-to-paste.png)
+
 But, this stuff is meant to dissolve pretty easily, so I wouldn't worry too much if you just want to toss it in.
 
-At this point, you're done! I usually grate in a fuji apple, then adjust taste with some sauces I have laying around depending on what it needs. These  include some combination of:
+At this point, you're done! I usually grate in a fuji apple, then adjust taste with some sauces I have laying around depending on what it needs. These include some combination of:
 
 * A few dashes of soy sauce
 * A squeeze of tonkatsu sauce (I use Bulldog brand, but ketchup works too)
 * A tablespoon of honey 
 
+![final curry](assets/curry-final.png)
+
 ## Serving
 
-!
+![to serve](assets/curry-in-bowls.png)
 
 Serve with warm rice. I really like jasmine rice, but short grain is probably more traditional. I also cook my rice on the drier side for use with curry.
 
