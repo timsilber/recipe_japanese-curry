@@ -42,6 +42,7 @@ neutral oil (grapeseed or avocado oil is my preference)
 
 <hr> 
 Optionally, if you have a cooking weight like a Chefs Press (or really anything heavy, I’ve used cans of beans or a brick with a layer of foil underneath), you’ll get a better sear. 
+<br><br>
 
 ![chefs press](assets/chefs-press.png)
 
@@ -57,6 +58,7 @@ Optionally, if you have a cooking weight like a Chefs Press (or really anything 
 
 <hr> 
 When you're done searing, you'll probably have a bunch of fond stuck to your pot. Don't clean it off, you'll be rehydrating all that good stuff in step 9.
+<br><br>
 
 ![fond](assets/fond.png)
 
@@ -90,6 +92,7 @@ If using your own stock, you could just add that here instead.
 
 <hr> 
 As the water boils, scum (primarily composed of coagulated myoglobin and bone dust) will float to the top. I generally skim this off with a fine mesh skimmer to produce a cleaner-tasting product, but it's not particularly necessary.
+<br><br>
 
 ![skim boil](assets/boil-skim.png)
 <hr> 
@@ -98,6 +101,7 @@ As the water boils, scum (primarily composed of coagulated myoglobin and bone du
 
 <hr> 
 I usually partially cover the pot with the lid during this step, but the overall goal is to maintain a bare simmer throughout the braise.
+<br><br>
 
 https://user-images.githubusercontent.com/95649291/230791829-b2d36f27-90f5-40dc-a9d7-2682677615b0.mov
 
