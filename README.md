@@ -109,3 +109,102 @@ https://user-images.githubusercontent.com/95649291/230791829-b2d36f27-90f5-40dc-
 
 13.   Braise meat until mostly tender. This will depend on your choice of protein, the size of your chunks, your oven, etc. For me, this generally takes 1.5 hours. I start checking after 1 hour, and would never go past 3 hours. No one wants meat mush.
 
+## Mise en place
+
+Prep your vegetables while your meat simmers away in the oven. I have a pretty liberal definition of bite-sized, but here's how I like my vegetables:
+
+| Vegetable | Prep |
+| - | - |
+| Onion | Large chunks, ~1.5 inch squares |
+| Potato | Very large chunks, ~2 inch squares. For reference, I cut large Russet potatoes into eighths. |
+| Carrot | Large chunks. I use large [rangiri](https://www.kikkoman.com/en/cookbook/jstyle/japanesecutting.html#:~:text=Rangiri%20is%20a%20way%20of,method%20particularly%20suitable%20when%20simmering.) cuts and the pieces are approximately two inches long |
+| Mushroom | I cut baby bellas in half, and larger ones in quarters. Mushrooms tend to expel a lot of moisture and shrink as they sauté. |
+
+![mise en place](assets/mise-en-place.png)
+
+<hr> 
+Keeping potatoes in water prevents them from oxidizing. Remember to drain before using. 
+<hr> 
+
+## Cook aromatics
+
+In this step, you'll sauté off the onions and mushrooms while the meat is braising. I like to start this process about 20 minutes before the meat is ready.
+
+<hr> 
+You should use a pot that will be able to comfortably fit all your vegetables and meat. Here's the large pot I use, relative to the one I braise the meat in.
+<br><br>
+
+![pot size](assets/pot-size.png)
+
+When factoring in the size of your pot, you can cut the volume of onions and mushrooms in half to account for moisture loss.
+<hr> 
+
+To prepare:
+
+1. Add mushrooms, onions, and 1/4 cup of water to your pot, then cover and heat on medium-high.
+
+<hr> 
+Adding a bit of water to this process makes the initial stage of sauté more efficient overall, and allows you to use less oil in the frying step.
+<hr> 
+
+2. Cook mushrooms and onions until they have reduced in volume and onions are beginning to turn translucent, ~10 minutes. You should stir intermittently during this step to ensure even heat distribution and prevent burning.
+
+3. Add some oil, then sauté until onions are translucent and lightly starting to brown, ~5 minutes.
+   
+4. Add potatoes, then briefly mix everything together.
+   
+<hr> 
+If your braise needs more time, remove the vegetable pot from heat until braise is complete. 
+<hr> 
+
+5. Transfer meat and braising liquid to the pot. I usually use a slotted spoon to move the meat into the vegetable pot, then pour the braising liquid in directly.
+
+<hr> 
+Your braising liquid should be sufficient to mostly submerge everything. You can add a splash or two of water as needed, but I'd refrain if possible -- it dilutes the flavor and thickness of the curry.
+<hr> 
+
+6. Bring to a boil, then immediately reduce to a simmer. 
+7. After 5 minutes, add carrots, then continue to simmer until vegetables are cooked, ~7-10 more minutes. 
+
+<hr>
+Potatoes and carrots are generally done when the tip of a paring knife can be inserted into the center of the vegetable with little resistance, but I usually just take a bit out of one when I think it's ready. 
+<hr>
+
+8. Turn off heat
+
+## Finishing
+
+To finish the dish, finely chop the curry roux before adding to the pot. 
+
+!
+
+At this point, your vegetables and meat are delicate, and too much agitation with turn them to mush.
+
+I usually incorporate the curry by adding it to a ladle, dipping in some broth, then using a pair of chopsticks to turn the roux into a paste before incorporating into the larger pot. 
+
+But, this stuff is meant to dissolve pretty easily, so I wouldn't worry too much if you just want to toss it in.
+
+At this point, you're done! I usually grate in a fuji apple, then adjust taste with some sauces I have laying around depending on what it needs. These  include some combination of:
+
+* A few dashes of soy sauce
+* A squeeze of tonkatsu sauce (I use Bulldog brand, but ketchup works too)
+* A tablespoon of honey 
+
+## Serving
+
+!
+
+Serve with warm rice. I really like jasmine rice, but short grain is probably more traditional. I also cook my rice on the drier side for use with curry.
+
+I think it's pretty standard to add rice to one half of the bowl and pour a nice ladle of curry into the other half, but I like to eat with two bowls to control the mixing. 
+
+It's also common to serve with some kind of pickled vegetable (fukujinzuke) for brightness and to refresh the palette, but you'll still very much enjoy your curry without it. 
+
+
+## Storing and reheating 
+
+The curry lasts for a week in the fridge, and will usually improve in taste over the first couple of days. 
+
+Your curry will usually lose thickness as it ages. To account for this, I like to reheat in a pot over low heat on the stove, which helps adjust the thickness of the curry to your liking. Stir intermittently and optionally add a splash of water to prevent scorching.
+
+The microwave will also work fine, but I'd skip the splash of water. 
