@@ -1,31 +1,18 @@
 # recipe_japanese-curry
 
-big ol' chunk of meat x 4 lb
-large onions x 4
-baby bella mushrooms x 1 lb 
-carrots x 4-6
-
-1.5 qt water
-2 tbsp [gelatin](https://www.amazon.com/Knox-Gelatine-Unflavored-Count-Ounce/dp/B00BCMU7T4/ref=sr_1_21_f3_0g_fs?crid=TV0Y6HDLJDP0&keywords=gelatin%2Bknox%2Bpack&qid=1681077247&s=grocery&sprefix=gelatin%2Bknox%2Bpack%2Cgrocery%2C74&sr=1-21&th=1)
-2 tbsp [hondashi](https://www.amazon.com/Ajinomoto-HONDASHI-Bonito-Stock-4-23oz/dp/B088HGKBNM/ref=sr_1_3?crid=21559UAA72GQI&keywords=hondashi&qid=1681077161&s=grocery&sprefix=hondashi%2Cgrocery%2C100&sr=1-3&th=1)
-
-box curry roux x 1
-
-white rice, for serving
-
-<hr>
-ℹ️ 
-<hr>
-
 ## Before getting started
 
-## On curry roux
+### On curry roux
 
-[Vermont Curry](https://www.amazon.com/House-Foods-Vermont-Curry-Medium/dp/B0722DCVY1/ref=sr_1_2?crid=2FFUGHOL9HWDW&keywords=vermont%2Bcurry&qid=1681077031&s=grocery&sprefix=vermont%2Bcurry%2Cgrocery%2C62&sr=1-2&th=1)
+There are many different curry roux makers. 
 
-[Golden Curry](https://www.amazon.com/Golden-Curry-Sauce-Medium-8-4-Ounce/dp/B0011ULFVG/ref=sr_1_10?crid=12JOQ08N8S7N2&keywords=golden+curry&qid=1681077068&s=grocery&sprefix=golden+curry%2Cgrocery%2C66&sr=1-10)
+If possible, you should get the *Medium Hot* or  *Hot* versions from a given manufacturer. They're really not spicy, and have a more enjoyable flavor profile.
 
-## On protein
+A good introductory roux is [Vermont Curry](https://www.amazon.com/House-Foods-Vermont-Curry-Medium/dp/B0722DCVY1/ref=sr_1_2?crid=2FFUGHOL9HWDW&keywords=vermont%2Bcurry&qid=1681077031&s=grocery&sprefix=vermont%2Bcurry%2Cgrocery%2C62&sr=1-2&th=1), which is on the sweeter and fruity side. [Golden Curry](https://www.amazon.com/Golden-Curry-Sauce-Medium-8-4-Ounce/dp/B0011ULFVG/ref=sr_1_10?crid=12JOQ08N8S7N2&keywords=golden+curry&qid=1681077068&s=grocery&sprefix=golden+curry%2Cgrocery%2C66&sr=1-10) is more ginger and cumin forward, and in my experience, it's one of the easiest brands to find. 
+
+But I usually use a 50:50 mixture from two different manufacturers to create more interesting combinations.
+
+### On protein
 
 You can make this with any type of tough protein (pork shoulder, chicken thigh, etc). 
 
@@ -37,19 +24,59 @@ A really good stock is the base of so many aspects of cooking. Traditional store
 
 For applications where a real stock matters, like a soup, I'll buy a bunch of chicken feet (cheap and high in collagen) and simmer away. I usually collect chicken bones in a bag in my freezer, which I'll also throw in.
 
-But in most sauces, braises, etc, you don't need to go through the pains of making a nice stock. I make my own stocks on the fly using water, hondashi (), and gelatin. 
+But in most sauces, braises, etc, you don't need to go through the pains of making a nice stock. I usually my own stocks on the fly using water, hondashi, and gelatin. 
 
-Hondashi creates a ton of depth and subtle smokiness, while gelatin simulates the effects of slowly rendering collagen from bones during a long stock simmer. 
+Hondashi is a widely-used powdered approximation of dashi, which creates a ton of depth and subtle smokiness.
 
-You should keep both of these in your pantry – they have a ton of applications, and are easy to store. But should you insist on using store-bought chicken stock, you could add some gelatin to improve the mouthfeel.
+<hr>
+ℹ️ Hondashi contains MSG. In fact, Hondashi's vendor, Ajinomoto, was the first commercial producer of MSG in 1909. 
+<br><br>
+Anti-MSG rhetoric has [xenophobic origins](https://apnews.com/article/us-news-ap-top-news-eddie-huang-az-state-wire-social-media-c54f4c29ac416fcd5b634d2451386d4e). MSG is [safe to eat and is naturally occurring in tomatoes, yeast, and cheese](https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg#:~:text=However%2C%20MSG%20occurs%20naturally%20in,as%20in%20tomatoes%20and%20cheeses).
+<hr>
+
+[Gelatin has many uses in the home kitchen](https://www.seriouseats.com/how-to-use-gelatin-better-stock-sauce-dessert), one of which is simulating the effects of slowly rendering collagen from bones during a long stock simmer. 
+
+I always keep both of these in my pantry – they have a ton of applications and are easy to store. But should you insist on using store-bought chicken stock, you could still add some gelatin to improve the mouthfeel.
 
 https://www.amazon.com/Knox-Unflavored-Gelatin-1-lb/dp/B001UOW7D8/ref=sr_1_4?crid=2ZEJ4A789028B&keywords=gelatin+knox&qid=1681077202&s=grocery&sprefix=gelatin+knox%2Cgrocery%2C76&sr=1-4
 
-## Sear and braise
+## Ingredients
 
-big ol' chunk of meat x 4 lb
-neutral oil (grapeseed or avocado oil is my preference)
+### [Sear and braise](#1-sear-and-braise)
+<input type="checkbox" id="1"><label for="1"> meat, big ol' chunk x 4 lb </label><br>
+<input type="checkbox" id="6"><label for="6"> water x 1.5 qt 
+[hondashi](https://www.amazon.com/Ajinomoto-HONDASHI-Bonito-Stock-4-23oz/dp/B088HGKBNM/ref=sr_1_3?crid=21559UAA72GQI&keywords=hondashi&qid=1681077161&s=grocery&sprefix=hondashi%2Cgrocery%2C100&sr=1-3&th=1) x 2 tbsp </label><br>
+<input type="checkbox" id="7"><label for="7"> [gelatin](https://www.amazon.com/Knox-Gelatine-Unflavored-Count-Ounce/dp/B00BCMU7T4/ref=sr_1_21_f3_0g_fs?crid=TV0Y6HDLJDP0&keywords=gelatin%2Bknox%2Bpack&qid=1681077247&s=grocery&sprefix=gelatin%2Bknox%2Bpack%2Cgrocery%2C74&sr=1-21&th=1) x 2 tbsp </label><br>
 
+
+### [Mise en place](#2-mise-en-place) + [Cook vegetables](#3-cook-vegetables)
+<input type="checkbox" id="2"><label for="2"> onions, large yellow x 3 </label><br>
+<input type="checkbox" id="3"><label for="3"> mushrooms, baby bella x 1 lb </label><br>
+<input type="checkbox" id="4"><label for="4"> carrots x 4-6 </label><br>
+<input type="checkbox" id="5"><label for="5"> russet potatoes x 2-3 </label><br>
+
+### [Finishing](#4-finishing)
+
+<input type="checkbox" id="8"><label for="8"> curry roux x 1 box </label><br>
+<input type="checkbox" id="9"><label for="9"> (optional) [tonkatsu sauce](https://www.amazon.com/Bull-Dog-Bull-Dog-Tonkatsu-Sauce/dp/B0002IZD1G?th=1) (or ketchup with a few dashes of worcestershire sauce), to taste </label><br>
+<input type="checkbox" id="10"><label for="10"> (optional) honey, to taste </label><br>
+<input type="checkbox" id="11"><label for="11">(optional) heavy cream, to taste </label><br>
+
+### [Serving](#5-serving)
+
+<input type="checkbox" id="12"><label for="12"> white rice </label><br>
+<input type="checkbox" id="12"><label for="12"> (optional) fukujinzuke </label><br>
+
+
+## Recipe
+
+### 1. Sear and braise
+
+This following instructions cover the basics of a French braise, with some tips and learnings I've picked up over time. You could use this process for any stews, chilis, or any other dish with a braised-meat base.
+
+[Jump to ingredients](#sear-and-braise)
+
+To prepare your braise:
 
 1. Heat a heavy-bottomed pot (like a dutch oven) on high heat. It should be the temp you would sear a steak.
 
@@ -128,7 +155,7 @@ https://user-images.githubusercontent.com/95649291/230791829-b2d36f27-90f5-40dc-
 
 ![braised meat](assets/braised-meat.png)
 
-## Mise en place
+## 2. Mise en place
 
 Prep your vegetables while your meat simmers away in the oven. I have a pretty liberal definition of bite-sized, but here's how I like my vegetables:
 
@@ -145,7 +172,7 @@ Prep your vegetables while your meat simmers away in the oven. I have a pretty l
 Keeping potatoes in water prevents them from oxidizing. Remember to drain before using. 
 <hr> 
 
-## Cook aromatics
+## 3. Cook vegetables
 
 In this step, you'll sauté off the onions and mushrooms while the meat is braising. I like to start this process about 20 minutes before the meat is ready.
 
@@ -199,7 +226,7 @@ Potatoes and carrots are generally done when the tip of a paring knife can be in
 
 8. Turn off heat
 
-## Finishing
+## 4. Finishing
 
 To finish the dish, finely chop the curry roux before adding to the pot. 
 
@@ -222,7 +249,7 @@ At this point, you're done! I usually grate in a fuji apple, then adjust taste w
 
 ![final curry](assets/curry-final.png)
 
-## Serving
+## 5. Serving
 
 ![to serve](assets/curry-in-bowls.png)
 
