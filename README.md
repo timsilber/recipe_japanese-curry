@@ -30,15 +30,15 @@ Active time: 1 hour
 <br>
 <li><a href="#ingredients">Recipe</a>
    <ul>
-      <li><a href="#1-sear-and-braise">Sear and braise</a></li>
-      <li><a href="#2-mise-en-place">Mise en place</a></li>
-     <li><a href="#3-cook-vegetables">Cook vegetables</a></li>
-     <li><a href="#4-finishing">Finishing</a></li>
-     <li><a href="#5-serving">Serving</a></li>
-    <li><a href="#storing-and-reheating">Storing and reheating</a></li>
-
+      <li><a href="#1-sear-and-braise">1. Sear and braise</a></li>
+      <li><a href="#2-mise-en-place">2. Mise en place</a></li>
+     <li><a href="#3-cook-vegetables">3. Cook vegetables</a></li>
+     <li><a href="#4-finishing">4. Finishing</a></li>
+     <li><a href="#5-serving">5. Serving</a></li>
    </ul>
 </li>
+<br>
+<li><a href="#storing-and-reheating">Storing and reheating</a></li>
 </ul>
 
 ## Before getting started
