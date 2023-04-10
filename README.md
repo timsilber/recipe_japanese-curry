@@ -1,8 +1,9 @@
 # A Japanese curry recipe
 
-This recipe draws from a wide range of techniques, disciplines, and sources to create 
+This recipe draws from a wide range of techniques, disciplines, and sources to create a highly-customizable base recipe for Japanese curry. 
 
-![final curry](assets/curry-final.png)
+Let's be clear -- you can follow the directions on the back of the box and get a fine product. But incorporating classic French techniques such as braising to more modern techniques like using 
+
 
 Total time: 3-4 hours
 Active time: 1 hour
@@ -249,7 +250,7 @@ To cook vegetables:
 1. Add mushrooms, onions, and 1/4 cup of water to your pot, then cover and heat on medium-high.
 
 <hr> 
-Adding a bit of water to this process makes the initial stage of sauté more efficient overall, and allows you to use less oil in the frying step.
+ℹ️ Adding a bit of water to this process makes the initial stage of sauté more efficient overall, and allows you to use less oil in the frying step.
 <hr> 
 
 2. Cook mushrooms and onions until they have reduced in volume and onions are beginning to turn translucent, ~10 minutes. You should stir intermittently during this step to ensure even heat distribution and prevent burning.
@@ -263,15 +264,17 @@ Adding a bit of water to this process makes the initial stage of sauté more eff
 ![potato](assets/add-potatoes.png)
    
 <hr> 
-If your braise needs more time, remove the vegetable pot from heat until braise is complete. 
+⚠️ If your braise needs more time, remove the vegetable pot from heat until the braise is complete. 
+
+⚠️ If a lot of fat rendered during the braise, you might want to skim some off before proceeding.
 <hr> 
 
-5. Transfer meat and braising liquid to the pot. I usually use a slotted spoon to move the meat into the vegetable pot, then pour the braising liquid in directly.
+5. Transfer meat and braising liquid to the pot. I move the meat into the vegetable pot first using a slotted spoon, then pour the braising liquid in directly.
 
 ![add meat](assets/add-braise-meat-and-liquid.png)
 
 <hr> 
-Your braising liquid should be sufficient to mostly submerge everything. You can add a splash or two of water as needed, but I'd refrain if possible -- it dilutes the flavor and thickness of the curry.
+ℹ️ Your braising liquid should be sufficient to mostly submerge everything. You can add a splash or two of water as needed, but I'd refrain if possible -- it dilutes the flavor and thickness of the curry.
 <hr> 
 
 6. Bring to a boil, then immediately reduce to a simmer. 
@@ -280,7 +283,7 @@ Your braising liquid should be sufficient to mostly submerge everything. You can
 ![add carrots](assets/add-carrots.png)
 
 <hr>
-Potatoes and carrots are generally done when the tip of a paring knife can be inserted into the center of the vegetable with little resistance, but I usually just take a bit out of one when I think it's ready. 
+ℹ️ Potatoes and carrots are generally done when the tip of a paring knife can be inserted into the center of the vegetable with little resistance, but I usually just take a bit out of one when I think it's ready. 
 <hr>
 
 8. Turn off heat
@@ -318,11 +321,11 @@ At this point, you're done! I usually grate in a fuji apple, then adjust taste w
 
 ## 5. Serving
 
-![to serve](assets/curry-in-bowls.png)
-
 Serve with warm rice. I really like jasmine rice, but short grain is probably more traditional. I also cook my rice on the drier side for use with curry.
 
 I think it's pretty standard to add rice to one half of the bowl and pour a nice ladle of curry into the other half, but I like to eat with two bowls to control the mixing. 
+
+![to serve](assets/curry-in-bowls.png)
 
 It's also common to serve with some kind of pickled vegetable (fukujinzuke {TODO: need resource}) for brightness and to refresh the palette, but you'll still very much enjoy your curry without it. 
 
@@ -331,6 +334,6 @@ It's also common to serve with some kind of pickled vegetable (fukujinzuke {TODO
 
 The curry lasts for a week in the fridge, and will usually improve in taste over the first couple of days. 
 
-Your curry will usually lose thickness as it ages. To account for this, I like to reheat in a pot over low heat on the stove, which helps adjust the thickness of the curry to your liking. Stir intermittently and optionally add a splash of water to prevent scorching.
+Your curry will lose thickness as it ages. To account for this, I reheat the curry in a pot over low heat on the stove, which helps adjust the thickness of the curry. Stir intermittently and optionally add a splash of water to prevent scorching.
 
-The microwave will also work fine, but I'd skip the splash of water. 
+The microwave will also work fine, but I'd skip the splash of water there
