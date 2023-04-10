@@ -1,36 +1,78 @@
-# recipe_japanese-curry
+# A Japanese curry recipe
+
+This recipe draws from a wide range of techniques, disciplines, and sources to create 
+
+![final curry](assets/curry-final.png)
+
+Total time: 3-4 hours
+Active time: 1 hour
+
+## Table of Contents
+
+<ul>
+
+<li><a href="#before-getting-started">Before getting started</a>
+   <ul>
+      <li><a href="#on-curry-roux">On curry roux</a></li>
+      <li><a href="#on-protein">On protein</a></li>
+     <li><a href="#on-stocks">On stocks</a></li>
+   </ul>
+</li>
+<br>
+<li><a href="#ingredients">Ingredients</a>
+   <ul>
+      <li><a href="#sear-and-braise">Sear and braise</a></li>
+      <li><a href="#mise-en-place--cook-vegetables">Mise en place + Cook vegetables</a></li>
+     <li><a href="#finishing">Finishing</a></li>
+     <li><a href="#serving">Serving</a></li>
+   </ul>
+</li>
+<br>
+<li><a href="#ingredients">Recipe</a>
+   <ul>
+      <li><a href="#1-sear-and-braise">Sear and braise</a></li>
+      <li><a href="#2-mise-en-place">Mise en place</a></li>
+     <li><a href="#3-cook-vegetables">Cook vegetables</a></li>
+     <li><a href="#4-finishing">Finishing</a></li>
+     <li><a href="#5-serving">Serving</a></li>
+    <li><a href="#storing-and-reheating">Storing and reheating</a></li>
+
+   </ul>
+</li>
+</ul>
 
 ## Before getting started
 
 ### On curry roux
 
-There are many different curry roux makers. 
+While you can definitely make a curry roux from scratch, it's hard to beat the quality and convenience of Japanese boxed curry roux. There are many different Japanese curry roux variants.
 
-If possible, you should get the *Medium Hot* or  *Hot* versions from a given manufacturer. They're really not spicy, and have a more enjoyable flavor profile.
+You should opt for the *Medium Hot* or *Hot* versions from a given manufacturer whenever possible. They're really not spicy, and have a more enjoyable flavor profile.
 
-A good introductory roux is [Vermont Curry](https://www.amazon.com/House-Foods-Vermont-Curry-Medium/dp/B0722DCVY1/ref=sr_1_2?crid=2FFUGHOL9HWDW&keywords=vermont%2Bcurry&qid=1681077031&s=grocery&sprefix=vermont%2Bcurry%2Cgrocery%2C62&sr=1-2&th=1), which is on the sweeter and fruity side. [Golden Curry](https://www.amazon.com/Golden-Curry-Sauce-Medium-8-4-Ounce/dp/B0011ULFVG/ref=sr_1_10?crid=12JOQ08N8S7N2&keywords=golden+curry&qid=1681077068&s=grocery&sprefix=golden+curry%2Cgrocery%2C66&sr=1-10) is more ginger and cumin forward, and in my experience, it's one of the easiest brands to find. 
+A good introductory roux is [Vermont Curry](https://www.amazon.com/House-Foods-Vermont-Curry-Medium/dp/B0722DCVY1/ref=sr_1_2?crid=2FFUGHOL9HWDW&keywords=vermont%2Bcurry&qid=1681077031&s=grocery&sprefix=vermont%2Bcurry%2Cgrocery%2C62&sr=1-2&th=1), which tends to be on the sweeter and fruity side. [Golden Curry](https://www.amazon.com/Golden-Curry-Sauce-Medium-8-4-Ounce/dp/B0011ULFVG/ref=sr_1_10?crid=12JOQ08N8S7N2&keywords=golden+curry&qid=1681077068&s=grocery&sprefix=golden+curry%2Cgrocery%2C66&sr=1-10) is more ginger- and cumin- forward, and in my experience, it's one of the easier brands to find. 
 
-But I usually use a 50:50 mixture from two different manufacturers to create more interesting combinations.
+I usually create a 50:50 mixture from two different manufacturers to created a more balanced curry.
 
 ### On protein
 
 You can make this with any type of tough protein (pork shoulder, chicken thigh, etc). 
 
-My preference is beef, usually a chuck roast. I used to make it with English cut bone-in short rib, but now everyone thinks they're cool and I've been priced out of using it for a casual weeknight meal. But it's still the best.
+My preference is beef, usually a chuck roast. I used to make it with English-cut, bone-in short rib, but now everyone thinks they're cool and I've been priced out of using it for a casual weeknight meal. But it's still the best.
 
 ### On stocks
 
 A really good stock is the base of so many aspects of cooking. Traditional store-bought stock is usually dilute, over-salted, and misses the unctuousness that comes from rendering collagen out of bones. I strongly recommend against it.
 
-For applications where a real stock matters, like a soup, I'll buy a bunch of chicken feet (cheap and high in collagen) and simmer away. I usually collect chicken bones in a bag in my freezer, which I'll also throw in.
+For applications where a real chicken stock matters, like a soup, I'll buy a bunch of chicken feet (cheap and high in collagen) and simmer away. I usually collect chicken bones in a bag in my freezer, which I'll also throw in.
 
-But in most sauces, braises, etc, you don't need to go through the pains of making a nice stock. I usually my own stocks on the fly using water, hondashi, and gelatin. 
+But in most sauces, braises, etc, you don't need to go through the pains of making a nice stock. Instead, I make them as needed using water, hondashi, and gelatin. 
 
 Hondashi is a widely-used powdered approximation of dashi, which creates a ton of depth and subtle smokiness.
 
 <hr>
 ℹ️ Hondashi contains MSG. In fact, Hondashi's vendor, Ajinomoto, was the first commercial producer of MSG in 1909. 
-<br><br>
+<br>
+
 Anti-MSG rhetoric has [xenophobic origins](https://apnews.com/article/us-news-ap-top-news-eddie-huang-az-state-wire-social-media-c54f4c29ac416fcd5b634d2451386d4e). MSG is [safe to eat and is naturally occurring in tomatoes, yeast, and cheese](https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg#:~:text=However%2C%20MSG%20occurs%20naturally%20in,as%20in%20tomatoes%20and%20cheeses).
 <hr>
 
@@ -38,15 +80,14 @@ Anti-MSG rhetoric has [xenophobic origins](https://apnews.com/article/us-news-ap
 
 I always keep both of these in my pantry – they have a ton of applications and are easy to store. But should you insist on using store-bought chicken stock, you could still add some gelatin to improve the mouthfeel.
 
-https://www.amazon.com/Knox-Unflavored-Gelatin-1-lb/dp/B001UOW7D8/ref=sr_1_4?crid=2ZEJ4A789028B&keywords=gelatin+knox&qid=1681077202&s=grocery&sprefix=gelatin+knox%2Cgrocery%2C76&sr=1-4
-
 ## Ingredients
 
 ### [Sear and braise](#1-sear-and-braise)
 <input type="checkbox" id="1"><label for="1"> meat, big ol' chunk x 4 lb </label><br>
 <input type="checkbox" id="6"><label for="6"> water x 1.5 qt 
 [hondashi](https://www.amazon.com/Ajinomoto-HONDASHI-Bonito-Stock-4-23oz/dp/B088HGKBNM/ref=sr_1_3?crid=21559UAA72GQI&keywords=hondashi&qid=1681077161&s=grocery&sprefix=hondashi%2Cgrocery%2C100&sr=1-3&th=1) x 2 tbsp </label><br>
-<input type="checkbox" id="7"><label for="7"> [gelatin](https://www.amazon.com/Knox-Gelatine-Unflavored-Count-Ounce/dp/B00BCMU7T4/ref=sr_1_21_f3_0g_fs?crid=TV0Y6HDLJDP0&keywords=gelatin%2Bknox%2Bpack&qid=1681077247&s=grocery&sprefix=gelatin%2Bknox%2Bpack%2Cgrocery%2C74&sr=1-21&th=1) x 2 tbsp </label><br>
+<input type="checkbox" id="7"><label for="7"> 
+[gelatin](https://www.amazon.com/Knox-Gelatine-Unflavored-Count-Ounce/dp/B00BCMU7T4/ref=sr_1_21_f3_0g_fs?crid=TV0Y6HDLJDP0&keywords=gelatin%2Bknox%2Bpack&qid=1681077247&s=grocery&sprefix=gelatin%2Bknox%2Bpack%2Cgrocery%2C74&sr=1-21&th=1) x 2 tbsp </label><br>
 
 
 ### [Mise en place](#2-mise-en-place) + [Cook vegetables](#3-cook-vegetables)
@@ -56,75 +97,80 @@ https://www.amazon.com/Knox-Unflavored-Gelatin-1-lb/dp/B001UOW7D8/ref=sr_1_4?cri
 <input type="checkbox" id="5"><label for="5"> russet potatoes x 2-3 </label><br>
 
 ### [Finishing](#4-finishing)
-
 <input type="checkbox" id="8"><label for="8"> curry roux x 1 box </label><br>
-<input type="checkbox" id="9"><label for="9"> (optional) [tonkatsu sauce](https://www.amazon.com/Bull-Dog-Bull-Dog-Tonkatsu-Sauce/dp/B0002IZD1G?th=1) (or ketchup with a few dashes of worcestershire sauce), to taste </label><br>
-<input type="checkbox" id="10"><label for="10"> (optional) honey, to taste </label><br>
-<input type="checkbox" id="11"><label for="11">(optional) heavy cream, to taste </label><br>
+<input type="checkbox" id="17"><label for="17"> apple, fuji x 1</label><br>
+<input type="checkbox" id="9"><label for="9"> (optional) [tonkatsu sauce](https://www.amazon.com/Bull-Dog-Bull-Dog-Tonkatsu-Sauce/dp/B0002IZD1G?th=1) (or ketchup with a few dashes of worcestershire sauce), honey, and/or heavy cream, to taste </label><br>
 
 ### [Serving](#5-serving)
 
-<input type="checkbox" id="12"><label for="12"> white rice </label><br>
-<input type="checkbox" id="12"><label for="12"> (optional) fukujinzuke </label><br>
+<input type="checkbox" id="12"><label for="12"> white rice, cooked </label><br>
+<input type="checkbox" id="13"><label for="13"> (optional) fukujinzuke {TODO: need resource}</label><br>
 
 
 ## Recipe
 
 ### 1. Sear and braise
 
-This following instructions cover the basics of a French braise, with some tips and learnings I've picked up over time. You could use this process for any stews, chilis, or any other dish with a braised-meat base.
+This following instructions cover the basics of a French braise, with some plus-ups I've incorporated over time. You could use this basic process for stews, chilis, or any other dish with a braised-meat base.
 
-[Jump to ingredients](#sear-and-braise)
+#### Ingredients
+
+<input type="checkbox" id="1"><label for="1"> meat, big ol' chunk x 4 lb </label><br>
+<input type="checkbox" id="6"><label for="6"> water x 1.5 qt 
+[hondashi](https://www.amazon.com/Ajinomoto-HONDASHI-Bonito-Stock-4-23oz/dp/B088HGKBNM/ref=sr_1_3?crid=21559UAA72GQI&keywords=hondashi&qid=1681077161&s=grocery&sprefix=hondashi%2Cgrocery%2C100&sr=1-3&th=1) x 2 tbsp </label><br>
+<input type="checkbox" id="7"><label for="7"> 
+[gelatin](https://www.amazon.com/Knox-Gelatine-Unflavored-Count-Ounce/dp/B00BCMU7T4/ref=sr_1_21_f3_0g_fs?crid=TV0Y6HDLJDP0&keywords=gelatin%2Bknox%2Bpack&qid=1681077247&s=grocery&sprefix=gelatin%2Bknox%2Bpack%2Cgrocery%2C74&sr=1-21&th=1) x 2 tbsp </label><br>
 
 To prepare your braise:
 
 1. Heat a heavy-bottomed pot (like a dutch oven) on high heat. It should be the temp you would sear a steak.
-
+   
 2. Add some neutral oil to lightly cover the bottom, then put meat in until the bottom is covered. I usually do this in two batches — don’t overcrowd, otherwise you’re going to be steaming instead of searing. 
+
+![start sear](/assets/start-sear.png)
    
 3. Sprinkle salt over the top, then let the meat sear for a few minutes. 
 
 <hr> 
-Optionally, if you have a cooking weight like a Chefs Press (or really anything heavy, I’ve used cans of beans or a brick with a layer of foil underneath), you’ll get a better sear. 
+ℹ️ Optionally, if you have a cooking weight like a <a href="https://www.thechefspress.com/shop">Chef's Press</a> (or really anything heavy, I’ve used cans of beans or a brick with a layer of foil underneath), you’ll get a better sear. 
 <br><br>
 
 ![chefs press](assets/chefs-press.png)
 
 <hr>
 
-5. Flip meat, then repeat step 3 until the second side is seared. Depending on how thick the meat is, you can also repeat step 3 for the other two sides. 
+4. Flip meat, then repeat step 3 until the second side is seared. Depending on how thick the meat is, you can also repeat step 3 for the other two sides. 
    
 ![flip sear](assets/sear-flip.png)
    
-6. Remove from heat, then transfer meat to a cutting board. Repeat steps 3-6 with remaining meat. 
+5. Remove from heat, then transfer meat to a cutting board. Repeat steps 3-6 with remaining meat. 
    
 ![all seared](assets/all-seared.png)
 
 <hr> 
-When you're done searing, you'll probably have a bunch of fond stuck to your pot. Don't clean it off, you'll be rehydrating all that good stuff in step 9.
+ℹ️ When you're done searing, you'll probably have a bunch of fond stuck to your pot. Don't clean it off, you'll be rehydrating all that good stuff in step 9.
 <br><br>
 
 ![fond](assets/fond.png)
 
 <hr> 
 
-7. Let meat rest for 5-10 min, then debone (if applicable) and cut meat into large chunks. The meat should still be raw inside. 
+6. Let meat rest for 5-10 min, then debone (if applicable) and cut meat into large chunks. The meat should still be raw inside. 
 
 ![seared chunks](assets/seared-chunks.png)
 
-   
 <hr> 
-I generally like to braise on the larger side using ~2" pieces, but I was hungry and wanted the braise to go faster on this round, so I cut into smaller chunks.
-<hr> 
-
-8. Preheat oven to 300ºF. 
-9. Add 2 cups of water, hondashi, and gelatin to the searing vessel, then return to high heat. 
-
-<hr> 
-If using your own stock, you could just add that here instead.
+ℹ️ I generally like to braise on the larger side using ~2" pieces, but I was hungry and wanted the braise to go faster on this round, so I cut into smaller chunks this time.
 <hr> 
 
-9. As the water heats, start whisking up all the fond and incorporating the gelatin and hondashi into the mixture.
+7. Preheat oven to 300ºF. 
+8. Add 2 cups of water, hondashi, and gelatin to the searing vessel, then return to high heat. 
+
+<hr> 
+ℹ️ If using your own stock, you can just add that here instead of the hondashi and gelatin.
+<hr> 
+
+9. As the water heats, start whisking to deglaze the fond and to incorporate the gelatin and hondashi.
 
 ![whisk fond](assets/whisk-fond.png)
 
@@ -132,10 +178,10 @@ If using your own stock, you could just add that here instead.
 
 ![meat in pot](assets/meat-in-pot.png)
 
-11. Add remaining 1 quart of water (or enough to cover meat), then bring to a boil. 
+11. Add remaining 1 quart of water (or enough to just cover meat), then bring to a boil. 
 
 <hr> 
-As the water boils, scum (primarily composed of coagulated myoglobin and bone dust) will float to the top. I generally skim this off with a fine mesh skimmer to produce a cleaner-tasting product, but it's not particularly necessary.
+ℹ️ As the water boils, scum (primarily composed of coagulated myoglobin and bone dust) will float to the top. I generally skim this off with a fine mesh skimmer to produce a cleaner-tasting product, but it's not particularly necessary.
 <br><br>
 
 ![skim boil](assets/boil-skim.png)
@@ -144,20 +190,27 @@ As the water boils, scum (primarily composed of coagulated myoglobin and bone du
 12.  As soon as the water boils, remove from heat and transfer pot to oven. 
 
 <hr> 
-I usually partially cover the pot with the lid during this step, but the overall goal is to maintain a bare simmer throughout the braise.
+ℹ️ The goal is to maintain a consistent bare simmer throughout the braise. You can partially cover the pot with a lid to help maintain the temperature if necessary, but do not cover completely with lid.
 <br><br>
 
 https://user-images.githubusercontent.com/95649291/230791829-b2d36f27-90f5-40dc-a9d7-2682677615b0.mov
-
 <hr> 
 
-13.   Braise meat until mostly tender. This will depend on your choice of protein, the size of your chunks, your oven, etc. For me, this generally takes 1.5 hours. I start checking after 1 hour, and would never go past 3 hours. No one wants meat mush.
+13.  Braise meat until mostly tender. This will depend on your choice of protein, the size of your chunks, your oven, etc. For me, this generally takes 1.5 hours. I start checking after 1 hour, and would never go past 3 hours. No one wants meat mush.
 
 ![braised meat](assets/braised-meat.png)
 
-## 2. Mise en place
+### 2. Mise en place
 
-Prep your vegetables while your meat simmers away in the oven. I have a pretty liberal definition of bite-sized, but here's how I like my vegetables:
+Prep your vegetables while your meat simmers away in the oven. 
+
+#### Ingredients
+<input type="checkbox" id="2"><label for="2"> onions, large yellow x 3 </label><br>
+<input type="checkbox" id="3"><label for="3"> mushrooms, baby bella x 1 lb </label><br>
+<input type="checkbox" id="4"><label for="4"> carrots x 4-6 </label><br>
+<input type="checkbox" id="5"><label for="5"> russet potatoes x 2-3 </label><br>
+
+I have a pretty liberal definition of bite-sized, but here's how I like my vegetables:
 
 | Vegetable | Prep |
 | - | - |
@@ -169,15 +222,15 @@ Prep your vegetables while your meat simmers away in the oven. I have a pretty l
 ![mise en place](assets/mise-en-place.png)
 
 <hr> 
-Keeping potatoes in water prevents them from oxidizing. Remember to drain before using. 
+ℹ️ Keeping potatoes in water prevents them from oxidizing. Remember to drain before using. 
 <hr> 
 
-## 3. Cook vegetables
+### 3. Cook vegetables
 
-In this step, you'll sauté off the onions and mushrooms while the meat is braising. I like to start this process about 20 minutes before the meat is ready.
+You'll begin this step by sautéing off the onions and mushrooms while the meat is braising. I like to start this process about 20 minutes before the meat is ready.
 
 <hr> 
-You should use a pot that will be able to comfortably fit all your vegetables and meat. Here's the large pot I use, relative to the one I braise the meat in.
+ℹ️ You should use a pot that will be able to comfortably fit all your vegetables and meat. For reference, here's the the (4-quart) pot I used to braise the meat next to the (8-quart) pot I use for this step.
 <br><br>
 
 ![pot size](assets/pot-size.png)
@@ -185,7 +238,13 @@ You should use a pot that will be able to comfortably fit all your vegetables an
 When factoring in the size of your pot, you can cut the volume of onions and mushrooms in half to account for moisture loss.
 <hr> 
 
-To prepare:
+#### Ingredients
+
+<input type="checkbox" id="13"><label for="13"> 
+almost-braised pot of meat<a href="#1-sear-and-braise">from step 1</a></label><br>
+<input type="checkbox" id="14"> mise en place<a href="#2-mise-en-place"> from step 2</a></label><br><label for="14"> 
+
+To cook vegetables:
 
 1. Add mushrooms, onions, and 1/4 cup of water to your pot, then cover and heat on medium-high.
 
@@ -228,6 +287,14 @@ Potatoes and carrots are generally done when the tip of a paring knife can be in
 
 ## 4. Finishing
 
+#### Ingredients
+
+<input type="checkbox" id="8"><label for="8"> curry roux x 1 box </label><br>
+<input type="checkbox" id="8"><label for="8"> apple, fuji x 1 </label><br>
+<input type="checkbox" id="9"><label for="9"> (optional) [tonkatsu sauce](https://www.amazon.com/Bull-Dog-Bull-Dog-Tonkatsu-Sauce/dp/B0002IZD1G?th=1) (or ketchup with a few dashes of worcestershire sauce), to taste </label><br>
+<input type="checkbox" id="10"><label for="10"> (optional) honey, to taste </label><br>
+<input type="checkbox" id="11"><label for="11">(optional) heavy cream, to taste </label><br>
+
 To finish the dish, finely chop the curry roux before adding to the pot. 
 
 ![chop roux](assets/chopped-curry-roux.png)
@@ -257,7 +324,7 @@ Serve with warm rice. I really like jasmine rice, but short grain is probably mo
 
 I think it's pretty standard to add rice to one half of the bowl and pour a nice ladle of curry into the other half, but I like to eat with two bowls to control the mixing. 
 
-It's also common to serve with some kind of pickled vegetable (fukujinzuke) for brightness and to refresh the palette, but you'll still very much enjoy your curry without it. 
+It's also common to serve with some kind of pickled vegetable (fukujinzuke {TODO: need resource}) for brightness and to refresh the palette, but you'll still very much enjoy your curry without it. 
 
 
 ## Storing and reheating 
