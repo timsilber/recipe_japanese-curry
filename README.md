@@ -4,7 +4,7 @@ This recipe draws from a wide range of techniques, disciplines, and sources to c
 
 ![final curry](assets/curry-final.png)
 
-Let's be clear — you can follow the directions on the back of the box and get a fine product. But incorporating classic French techniques such as braising to more modern techniques like using 
+Let's be clear — you can follow the directions on the back of the box and get a fine product. But incorporating classic French techniques such as braising to more modern techniques like using {TODO}
 
 
 Total time: 3-4 hours
