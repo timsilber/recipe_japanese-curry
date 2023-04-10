@@ -2,14 +2,16 @@
 
 This recipe draws from a wide range of techniques, disciplines, and sources to create a highly-customizable base recipe for Japanese curry. 
 
-Let's be clear -- you can follow the directions on the back of the box and get a fine product. But incorporating classic French techniques such as braising to more modern techniques like using 
+![final curry](assets/curry-final.png)
+
+Let's be clear — you can follow the directions on the back of the box and get a fine product. But incorporating classic French techniques such as braising to more modern techniques like using 
 
 
 Total time: 3-4 hours
 Active time: 1 hour
 
 ## Table of Contents
-
+<br>
 <ul>
 
 <li><a href="#before-getting-started">Before getting started</a>
