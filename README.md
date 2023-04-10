@@ -87,7 +87,7 @@ I always keep both of these in my pantry – they have a ton of applications and
 
 ### [Sear and braise](#1-sear-and-braise)
 <input type="checkbox" id="1"><label for="1"> meat, big ol' chunk x 4 lb </label><br>
-<input type="checkbox" id="6"><label for="6"> water x 1.5 qt 
+<input type="checkbox" id="6"><label for="6"> water x 1.5 qt <br>
 [hondashi](https://www.amazon.com/Ajinomoto-HONDASHI-Bonito-Stock-4-23oz/dp/B088HGKBNM/ref=sr_1_3?crid=21559UAA72GQI&keywords=hondashi&qid=1681077161&s=grocery&sprefix=hondashi%2Cgrocery%2C100&sr=1-3&th=1) x 2 tbsp </label><br>
 <input type="checkbox" id="7"><label for="7"> 
 [gelatin](https://www.amazon.com/Knox-Gelatine-Unflavored-Count-Ounce/dp/B00BCMU7T4/ref=sr_1_21_f3_0g_fs?crid=TV0Y6HDLJDP0&keywords=gelatin%2Bknox%2Bpack&qid=1681077247&s=grocery&sprefix=gelatin%2Bknox%2Bpack%2Cgrocery%2C74&sr=1-21&th=1) x 2 tbsp </label><br>
@@ -119,7 +119,7 @@ This following instructions cover the basics of a French braise, with some plus-
 #### Ingredients
 
 <input type="checkbox" id="1"><label for="1"> meat, big ol' chunk x 4 lb </label><br>
-<input type="checkbox" id="6"><label for="6"> water x 1.5 qt 
+<input type="checkbox" id="6"><label for="6"> water x 1.5 qt <br>
 [hondashi](https://www.amazon.com/Ajinomoto-HONDASHI-Bonito-Stock-4-23oz/dp/B088HGKBNM/ref=sr_1_3?crid=21559UAA72GQI&keywords=hondashi&qid=1681077161&s=grocery&sprefix=hondashi%2Cgrocery%2C100&sr=1-3&th=1) x 2 tbsp </label><br>
 <input type="checkbox" id="7"><label for="7"> 
 [gelatin](https://www.amazon.com/Knox-Gelatine-Unflavored-Count-Ounce/dp/B00BCMU7T4/ref=sr_1_21_f3_0g_fs?crid=TV0Y6HDLJDP0&keywords=gelatin%2Bknox%2Bpack&qid=1681077247&s=grocery&sprefix=gelatin%2Bknox%2Bpack%2Cgrocery%2C74&sr=1-21&th=1) x 2 tbsp </label><br>
